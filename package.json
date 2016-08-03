@@ -1,0 +1,17 @@
+{
+  "name": "lesson5",
+  "version": "1.0.0",
+  "description": "node lesson 5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.4.2",
+    "cheerio": "^0.20.0",
+    "superagent": "^2.1.0",
+    "url": "^0.11.0"
+  }
+}
